@@ -1,5 +1,5 @@
 # 💫 About Me:
-Im currently working on deploying a simple betting app using <br>  -React.js<br>  -Express.js<br>  -MUI API<br>  -AWS service hosting<br>In addition, I'm also working at a full-stack capacity on another app using,<br>  -Next.js<br>  -Typescript<br>  -React.js<br>  -AWS Dynamo<br>  -AWS lambda, Cognito, and Route 53.<br>  -MUI API<br>As a personal project I'm learning openGL for the fifth time creating a game engine.<br><br>I love creating things from scratch, building them up from a tiny idea into a tangible application.
+Im currently working on deploying a simple crypto betting app on the SOL chain using <br>  -React.js<br>  -Express.js<br> -Solana/web3.js<br> -MUI API<br>  -AWS service hosting<br>In addition, I'm also working at a full-stack capacity on another app using,<br>  -Next.js<br>  -Typescript<br>  -React.js<br>  -AWS Dynamo<br>  -AWS lambda, Cognito, and Route 53.<br>  -MUI API<br>As a personal project I'm learning openGL for the fifth time creating a game engine.<br><br>I love creating things from scratch, building them up from a tiny idea into a tangible application.
 
 
 ## 🌐 Socials:
